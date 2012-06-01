@@ -222,6 +222,11 @@ ul.links li {
 .region-footer {
 }
 
+.region-footer 
+.content {
+  text-align: center;
+}
+
 /*
  * Page bottom
  */
