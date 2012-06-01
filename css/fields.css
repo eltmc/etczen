@@ -76,3 +76,24 @@
 
 .field-name-field-FIELDNAME /* Underscores in field name are replaced with dashes. */ {
 }
+
+
+.node-page
+.field-name-field-images 
+.field-items {
+  text-align: center;
+}
+
+.node-page 
+.field-name-field-images
+.field-item {
+   display: inline;
+}
+
+.node-page 
+.field-name-field-images
+.field-item 
+img {
+   border: 1px solid black;
+   margin: 0px 2px;
+}
