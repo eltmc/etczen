@@ -56,6 +56,11 @@ h2.block-title /* Block title */ {
 #block-menu-menu-NAME /* Custom menu block  */ {
 }
 
+/* This is to make the menu indentation smaller, to fit text on Android screen */
+#block-system-main-menu .content ul {
+  padding-left: 1em;
+}
+
 #block-node-recent /* "Recent content" block */ {
 }
 
