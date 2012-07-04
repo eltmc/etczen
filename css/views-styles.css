@@ -3,4 +3,11 @@
  * Views Styling
  */
 
-
+/* for the Committe Member view */
+.aboutus-committee-member-image {
+  float: left;
+  margin-right: 1em;
+}
+.view-committee-members table.views-view-grid {
+  width: 99%;
+}
