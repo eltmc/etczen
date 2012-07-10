@@ -232,3 +232,12 @@ ul.links li {
  */
 .region-bottom /* Wrapper for any blocks placed in the page bottom region */ {
 }
+
+/* set a default to stop tables in content from being vertically aligned to "middle" */
+.content td {
+  vertical-align: top;
+}
+.content td ul {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
