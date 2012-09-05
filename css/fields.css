@@ -97,3 +97,18 @@ img {
    border: 1px solid black;
    margin: 0px 2px;
 }
+
+.node-announcement
+.field-name-field-image
+.field-item
+img {
+   float: left;
+   margin-right: 1em;
+}
+
+/* put a margin around ad-hoc inserted images */
+.node
+.field-name-body
+img {
+   margin: 1em;
+}
