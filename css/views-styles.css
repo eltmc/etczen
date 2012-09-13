@@ -30,3 +30,6 @@
 .view-id-view_committee_role_occupants table.views-view-grid td {
   width: 25%;
 }
+.view-id-view_committee_role_occupants .views-field-field-image {
+  height: 100px;
+}
