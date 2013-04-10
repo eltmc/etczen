@@ -31,5 +31,5 @@
   width: 25%;
 }
 .view-id-view_committee_role_occupants .views-field-field-image {
-  height: 100px;
+  height: 128px; /* matches size of image in committee role occupants view */
 }
